@@ -1,0 +1,9 @@
+﻿analysis_genera_lda,domain,phylum,class,order,family
+Bacillus,Bacteria,Bacillota,Bacilli,Caryophanales,Bacillaceae
+Erwinia,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae
+Exiguobacterium,Bacteria,Bacillota,Bacilli,Caryophanales,Bacillaceae
+Pantoea,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae
+Pseudomonas,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae
+rare,Bacteria,rare,rare,rare,rare
+Serratia,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae
+Shewanella,Bacteria,Pseudomonadota,Gammaproteobacteria,Alteromonadales,Shewanellaceae
